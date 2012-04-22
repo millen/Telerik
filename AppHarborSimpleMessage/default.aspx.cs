@@ -11,7 +11,7 @@ namespace AppHarborSimpleMessage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("The quick brown fox jumps over the lazy dog");
+            Response.Write("The lazy dog jumps over the quick brown fox");
         }
     }
 }
