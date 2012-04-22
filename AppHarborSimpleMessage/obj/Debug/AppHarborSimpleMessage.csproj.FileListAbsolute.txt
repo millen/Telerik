@@ -1,0 +1,5 @@
+E:\milen\Telerik\Cloud\Exercises\AppHarborSimpleMessage\AppHarborSimpleMessage\bin\AppHarborSimpleMessage.dll
+E:\milen\Telerik\Cloud\Exercises\AppHarborSimpleMessage\AppHarborSimpleMessage\bin\AppHarborSimpleMessage.pdb
+E:\milen\Telerik\Cloud\Exercises\AppHarborSimpleMessage\AppHarborSimpleMessage\obj\Debug\ResolveAssemblyReference.cache
+E:\milen\Telerik\Cloud\Exercises\AppHarborSimpleMessage\AppHarborSimpleMessage\obj\Debug\AppHarborSimpleMessage.dll
+E:\milen\Telerik\Cloud\Exercises\AppHarborSimpleMessage\AppHarborSimpleMessage\obj\Debug\AppHarborSimpleMessage.pdb
